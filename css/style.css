@@ -41,7 +41,12 @@ img {
     --white: #ffffff;
 }
 
-.md-48 {
-    font-size: 48px;
-    color: #666666;
+.logo {
+    font-family: 'Cookie', cursive;
+    font-size: 3rem;
+    font-weight: bold;
+    display: block;
+    color: var(--black);
 }
+
+
